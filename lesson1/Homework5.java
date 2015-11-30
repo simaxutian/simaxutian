@@ -18,7 +18,7 @@ public class Homework5 {
 		Iterator<String> inter = outputArray.iterator();
 		while(inter.hasNext())
 		System.out.print("\""+inter.next()+"\",");
-		System.out.println("difjdfdfjsj");
+		
 	}
 
 }
